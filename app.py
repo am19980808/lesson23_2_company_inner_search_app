@@ -6,3 +6,5 @@ query = st.text_input("検索キーワードを入力してください")
 
 if query:
     st.write(f"「{query}」で検索しました（仮）")
+
+st.write("更新テスト")
