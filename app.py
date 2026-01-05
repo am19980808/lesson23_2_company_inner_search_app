@@ -1,6 +1,12 @@
 import streamlit as st
 st.write("🔥🔥🔥 ここが変わらなかったらバグ 🔥🔥🔥")
 
+import os
+import streamlit as st
+
+st.write("実行中のファイル:", os.path.abspath(__file__))
+
+
 
 import streamlit as st
 
