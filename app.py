@@ -8,3 +8,4 @@ if query:
     st.write(f"「{query}」で検索しました（仮）")
 
 st.write("更新テスト")
+st.write("これはテストです")
